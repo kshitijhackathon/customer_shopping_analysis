@@ -1,7 +1,7 @@
 # Customer Shopping Behavior Analysis
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Insights
 - Total Customers: 3.9K
